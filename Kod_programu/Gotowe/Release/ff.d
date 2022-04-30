@@ -1,0 +1,9 @@
+ff.o ff.o: ../ff.c ../ff.h ../ffconf.h ../diskio.h ../mmc_avr.h
+
+../ff.h:
+
+../ffconf.h:
+
+../diskio.h:
+
+../mmc_avr.h:
